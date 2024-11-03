@@ -1,0 +1,10 @@
+body {
+  font-family: "Comic Sans MS", sans-serif;
+  line-height: 1.5;
+  color: #ab2525;
+  background-color: #ffbdbd;
+}
+
+.inline-image {
+  max-width: 450px;
+}
